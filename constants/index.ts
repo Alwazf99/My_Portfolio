@@ -92,7 +92,7 @@ export const Projects = [
   {
     title: "IdeaGrove",
     text: "IdeaGrove: A collaborative platform empowering users to share and explore diverse prompt ideas for collective inspiration and creativity.",
-    src: "/IdeaGrove.png",
+    src: "/Ideagrove.png",
     deployedLink: 'https://project-ideagrove.vercel.app',
   },
   {
